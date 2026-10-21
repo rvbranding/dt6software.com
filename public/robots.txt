@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dt6software.com/sitemap.xml

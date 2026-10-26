@@ -1,4 +1,4 @@
-name: Deploy Website
+name: Deploy DT6 Software Website
 
 on:
   workflow_dispatch:
